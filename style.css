@@ -1,0 +1,84 @@
+
+@import url ('https://fonts.googleapis.com/css2? family = Gideon + Roman & display = swap');
+
+body{
+    background-color: rgba(194, 199, 198, 0.74);
+}
+#header-img{
+    text-align: center;
+    background-image: url(img/developer2.png);
+    background-position:center;
+    background-color:#1a1515;
+    background-attachment: fixed;
+}
+h1{
+    background-color: #3a6d9c;
+    color:#ffffff;
+    text-align: center;
+    text-transform: uppercase;
+}
+h2{
+    background-color: #3a6d9c;
+    color:#ffffff;
+    font-family: ''Gideon Roman', cursiva';
+    font-style: normal; 
+    font-size: 20px;
+    font-weight: 700;
+    line-height:16,94px;
+    text-transform: uppercase;
+}
+#incio-Listas{
+    font-family: 'Gideon Roman', cursiva;
+    font-style: italic;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 12,7px;
+    text-transform: capitalize;
+}
+#Listasinfromat{
+    list-style: none;
+
+}
+#Fecha-listas{
+    font-family: 'Gideon Roman', cursiva;
+    font-style: normal;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 12,7px;
+
+    text-transform: capitalize;
+}
+#TextoSobremi{
+    background-color: rgb(133, 173, 173);
+    font-family: 'Gideon Roman', cursiva;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 12,7px;
+}
+span{
+    font-family: 'Gideon Roman', cursiva;
+    font-style: normal;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 12,7px;
+   
+    text-transform: capitalize;
+    text-align: justify;
+
+    
+}
+footer{
+    background-color:#005677;
+    color:#ffffff;
+    font-family: 'Gideon Roman', cursiva;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 16,94px;
+    text-align: center;
+    text-transform: uppercase;
+}
+#gitgub{
+    width: 22px;
+    height: auto;
+}
