@@ -1,0 +1,97 @@
+@import url ('https://fonts.googleapis.com/css2? family = Roboto: wght @ 500 & display = swap'); </sty
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family:'Roboto', sans-serif;;
+}
+
+
+#banner{
+    background-image: url(../images/Imagensfondo.png);             
+    background-size: cover,cover;
+    background-position: center,right;
+    background-repeat: no-repeat, no-repeat;
+    width: 1025px;
+    height: 409px;
+}
+
+.bannerRec{
+    background-image: url("../images/Rectangle\ 6.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: right;
+  
+  height: 70px;
+  
+}
+.bannerRec h3{
+    
+    color: white;
+
+}
+.divheader{
+    width: 1025px;
+    height: 128px;
+
+}
+.footerInfo{
+    background-color:rgb(53, 24, 24);
+    background-size: 500px;
+    width: 1025px;
+    background-image: url("../images/logo.png");
+    background-size: 200px;
+    background-position: right;
+    background-repeat: no-repeat;
+ 
+}
+.footerInfo h5{
+    
+    
+    line-height:1px;
+    color: white;
+    font-size: 20px;
+
+}
+.footerInfo p{
+    line-height:1px;
+    color: white;
+    font-size: 15px;
+   
+  
+
+}
+.fooderdiv{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 10px;
+}
+.header{
+    width: 1025px;
+    height:500px;
+}
+.headerOfer{
+    width: 1025px;
+    height:20px;
+}
+#productos{
+    width: 1025px;
+
+}
+#productos h2{
+    text-transform: capitalize;
+    font-size: 35px;
+    text-align:center;
+    color:rgb(59, 7, 7)
+
+
+}
+#productos h5{ 
+    text-align:center;
+    color:rgb(102, 96, 96)
+}
+.titlebanner{
+    text-align: right;
+
+}
